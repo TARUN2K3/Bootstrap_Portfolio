@@ -30,29 +30,21 @@ Feel free to explore the sections of this portfolio and get to know me better.
 
 ## Project Structure
 
+
 Tarun_Sharma_Portfolio/
--|-- index.html
--|-- styles.css
--|-- test.css
--|-- assets/
--|   |-- images/
--|   |   |-- moon2.png
--|   |   |-- TARUN.gif
--|   |   |-- WhatsApp Image 2023-12-24 at 10.40.36 AM.jpeg
--|   |   |-- card1.png
--|   |   |-- card2.png
--|   |   |-- card3.png
--|   |   |-- ... (various image files)
--|   |-- ...
--|-- resume/
--|   |-- TARUN KUMAR-resume updated.pdf
--|-- js/
--|   |-- script.js
--|-- LICENSE
--|-- README.md
--|-- portfolio.png
--|-- .gitignore
--|-- ...
+|-- index.html
+|-- styles.css
+|-- test.css
+|-- assets/
+|   |-- images/
+|   |   |-- ... (various image files)
+|   |-- ...
+|-- card1.png
+|-- card2.png
+|-- card3.png
+|-- portfolio.png
+|-- ...
+
 
 ## Getting Started
 
