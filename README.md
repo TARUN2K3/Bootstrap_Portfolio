@@ -1,37 +1,10 @@
 # Tarun Sharma's Portfolio
 
-<p align="center">
-  <img src="portfolio.png" alt="Tarun Sharma's Portfolio" width="200" height="200">
-</p>
+
+https://github.com/TARUN2K3/Bootstrap_Portfolio/assets/127468524/8c841b3e-d987-4f76-8f41-99881ebd18fc
+
 
 Welcome to my GitHub repository! This repository hosts the code for my personal portfolio website, showcasing my skills, projects, and experiences.
-
-## Project Structure
-
-Tarun_Sharma_Portfolio/
-|-- index.html
-|-- styles.css
-|-- test.css
-|-- assets/
-|   |-- images/
-|   |   |-- moon2.png
-|   |   |-- TARUN.gif
-|   |   |-- WhatsApp Image 2023-12-24 at 10.40.36 AM.jpeg
-|   |   |-- card1.png
-|   |   |-- card2.png
-|   |   |-- card3.png
-|   |   |-- ... (various image files)
-|   |-- ...
-|-- resume/
-|   |-- TARUN KUMAR-resume updated.pdf
-|-- js/
-|   |-- script.js
-|-- LICENSE
-|-- README.md
-|-- portfolio.png
-|-- .gitignore
-|-- ...
-
 
 ## Introduction
 
@@ -55,9 +28,35 @@ Feel free to explore the sections of this portfolio and get to know me better.
 - **FontAwesome:** Icons for social media links.
 - **Web3Forms:** Powering the contact form.
 
+## Project Structure
+
+Tarun_Sharma_Portfolio/
+-|-- index.html
+-|-- styles.css
+-|-- test.css
+-|-- assets/
+-|   |-- images/
+-|   |   |-- moon2.png
+-|   |   |-- TARUN.gif
+-|   |   |-- WhatsApp Image 2023-12-24 at 10.40.36 AM.jpeg
+-|   |   |-- card1.png
+-|   |   |-- card2.png
+-|   |   |-- card3.png
+-|   |   |-- ... (various image files)
+-|   |-- ...
+-|-- resume/
+-|   |-- TARUN KUMAR-resume updated.pdf
+-|-- js/
+-|   |-- script.js
+-|-- LICENSE
+-|-- README.md
+-|-- portfolio.png
+-|-- .gitignore
+-|-- ...
+
 ## Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TARUN2K3/.git
+   git clone https://github.com/TARUN2K3/Bootstarp_portfolio.git
